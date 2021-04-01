@@ -1,0 +1,2 @@
+# FolderPertama
+folder pertamaku
